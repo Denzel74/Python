@@ -1,4 +1,4 @@
-#Users/denzelbalbosa/Documents/Python_Projects/final_project.py
+#Users/denzelbalbosa/Documents/Python_Projects/tictactoe.py
 #Denzel Balbosa
 
 import random
